@@ -1,0 +1,23 @@
+
+.page-title{
+	text-align: right;
+	font-weight: 120;
+}
+.page-description{
+	border: 2px solid blue;
+	text-align: center;
+	padding-right: 20px;
+	font-style: verdana;
+
+}
+
+.logo{
+	display: inline-flex;
+	justify-content: left;
+
+
+}
+.galllery{
+	display: flex;
+	justify-content: left;
+}
